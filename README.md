@@ -6,21 +6,21 @@ Lately, I’ve been diving deep into the **Web3 ecosystem**, particularly the in
 
 ---
 
-### 🚀&nbsp;&nbsp;what I'm up to
+### 🚀&nbsp;&nbsp;What I'm up to
 
-- 🔭 Contributing to open-source at [**DeFiLlama**](https://github.com/DefiLlama)
-- 🧠 Learning more about blockchain fundamentals, protocols and dApps
-- 👀 Actively looking for **frontend roles in Web3**
+- Contributing to open-source at [**DeFiLlama**](https://github.com/DefiLlama)
+- Learning more about blockchain fundamentals, protocols and dApps
+- Actively looking for **frontend roles in Web3**
 
 ---
 
-### 🔧&nbsp;&nbsp;tech stack
+### 🔧&nbsp;&nbsp;Tech stack
 
-- 💻 Languages: JavaScript (ES6+), TypeScript, HTML5, CSS
-- ⚙️ Frameworks & Libs: React, Next.js, Tailwind CSS, Zustand, Node.js
-- 🛠️ Tools: Git, Webpack, Vite, ESLint, Prettier, Storybook, React Testing Library, Jest
-- 🧱 Web3: wagmi, ethers.js, viem, RainbowKit, AppKit
-- 🌐 Other: REST, Firebase, Supabase, Convex
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS
+- Frameworks & Libs: React, Next.js, Tailwind CSS, Zustand, Node.js
+- Tools: Git, Webpack, Vite, ESLint, Prettier, Storybook, React Testing Library, Jest
+- Web3: wagmi, ethers.js, viem, RainbowKit, AppKit, alchemy sdk
+- Other: REST, Firebase, Supabase, Convex
 
 ---
 
@@ -34,13 +34,13 @@ Lately, I’ve been diving deep into the **Web3 ecosystem**, particularly the in
 
 ---
 -->
-### 📫&nbsp;&nbsp;get in touch
-- Web3 specific portfolio coming soon
+### 📫&nbsp;&nbsp;Get in touch
+<!--- Web3 specific portfolio coming soon-->
 - Email: 0xkanerep@gmail.com
 
 ---
 
-### 📝&nbsp;&nbsp;recent projects
+### 📝&nbsp;&nbsp;Recent projects
 
 Here are a few things I've been working on recently:
 
